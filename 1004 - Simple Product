@@ -1,0 +1,20 @@
+#include<stdio.h>
+
+int main()
+{
+
+    int i,j,PROD;
+    
+    scanf("%d %d",&i,&j);
+    
+    PROD = i * j;
+    
+   printf("PROD = %d\n",PROD);
+    
+    
+
+    
+    
+    
+    return 0;
+}
